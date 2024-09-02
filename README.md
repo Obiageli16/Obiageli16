@@ -7,7 +7,8 @@
 *CONNECT WITH ME*: www.linkedin.com/in/elizabeth-nwanne-587a36294
 
 *TOOLS AND SKILLS*:
-MIcrosoft 365(Excel,Ms Word, PowerPoint), Data visualization tools(power bi), Goggle Workspace, Effective Communication, colloboration and teamwork, Research and Analysis
+MIcrosoft 365(Excel,Ms Word, PowerPoint), Data visualization tools(power bi), Goggle Workspace, Effective Communication, Collaboration and Teamwork
+, Research and Analysis
 
 <!---
 Obiageli16/Obiageli16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
